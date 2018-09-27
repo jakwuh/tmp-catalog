@@ -2,5 +2,9 @@
   "name": "tmp-catalog",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "test-tmp-nucleus": "^1.0.1"
+  },
+  "scripts": { "test" : "node index.spec.js" }
 }
