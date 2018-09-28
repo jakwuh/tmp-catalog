@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-test-tmp-nucleus@1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/test-tmp-nucleus/-/test-tmp-nucleus-1.1.1.tgz#d1fc9a77897f69c9a42e7dca226818e04b764d7d"
+test-tmp-nucleus@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/test-tmp-nucleus/-/test-tmp-nucleus-1.2.0.tgz#972f238fd79941af7fb400ac83553a575fb3ff87"
